@@ -1,0 +1,12 @@
+{
+    "theme": "dark",
+    "limit": "20",
+    "auto_copy": true,
+    "output_format": "BBCode",
+    "include_score": true,
+    "include_genres": true,
+    "include_type": true,
+    "include_year": true,
+    "include_image_tag": false,
+    "window_geometry": "1125x480+402+348"
+}
