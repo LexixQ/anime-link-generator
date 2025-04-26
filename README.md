@@ -2,8 +2,8 @@
 
 MyAnimeList üzerinde anime araması yaparak forumlarda veya diğer platformlarda kolayca paylaşmak için BBCode veya Markdown formatında linkler oluşturan basit bir masaüstü aracı.
 
-![Ekran Görüntüsü](placeholder_ekran_goruntusu.png)
-<!-- TODO: Buraya programın bir ekran görüntüsünü ekle! -->
+![image](https://github.com/user-attachments/assets/c696e7a8-dfd0-4da9-acf3-1e9c38d80290)
+
 
 ## Özellikler
 
